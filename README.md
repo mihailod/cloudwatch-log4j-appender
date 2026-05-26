@@ -1,7 +1,7 @@
 CloudWatchAppender
 ==================
 
-![Views](https://hits.seeyoufarm.com/api/count/graph/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmihailod%2Fcloudwatch-log4j-appender&title=Repository+Views)
+![Views](https://img.shields.io/github/search/mihailod/chipmachine/chipmachine)
 
 Emits log4j events into AWS CloudWatch streams.
 
