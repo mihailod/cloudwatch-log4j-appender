@@ -1,8 +1,6 @@
 CloudWatchAppender
 ==================
 
-![Views](https://img.shields.io/github/search/mihailod/cloudwatch-log4j-appender/cloudwatch-log4j-appender)
-
 Emits log4j events into AWS CloudWatch streams.
 
 ## Build
