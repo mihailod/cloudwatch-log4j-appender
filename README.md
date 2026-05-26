@@ -1,6 +1,8 @@
 CloudWatchAppender
 ==================
 
+[![GitHub forks](https://img.shields.io/github/forks/mihailod/cloudwatch-log4j-appender?style=flat)](https://github.com/mihailod/cloudwatch-log4j-appender/network/members)
+
 Emits log4j events into AWS CloudWatch streams.
 
 ## Build
