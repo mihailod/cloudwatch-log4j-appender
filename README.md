@@ -1,6 +1,10 @@
 CloudWatchAppender
 ==================
 
+<div align="right">
+  <img src="https://img.shields.io/github/downloads/mihailod/cloudwatch-log4j-appender/total?label=Total%20Downloads" alt="Total Downloads">
+</div>
+
 Emits log4j events into AWS CloudWatch streams.
 
 ## Build
